@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **deployments on AWS and Google Cloud, BlockChain**
 
-- 👯 I’m looking for contributors **to technology, innovation, and WarDragons game blogs**
+- 👯 I’m looking for contributors **to technology, innovation**
 
 - 📫 How to reach me **jperez@novasolutions.com.mx**
 
